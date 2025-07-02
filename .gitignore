@@ -1,0 +1,6 @@
+*.o
+libft.a
+libftprintf.a
+*.out
+main.c
+
